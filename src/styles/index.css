@@ -1,0 +1,27 @@
+body {
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.active {
+  background-color: #fb8760;
+}
+.nav {
+  background-color: #282c34;
+}
+
+.actions > span {
+  margin-right: 30px;
+  font-size: 20px;
+}
+.card {
+  background-color: #f9ffe5;
+}
